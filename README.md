@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jobin Kurian</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<div align="center">
-  <img src="spartan_logo.png" alt="Spartan DevOps" width="200"/>
-</div>
-
-# Spartan DevOps Engineer README
-
-<div align="center">
-  <img src="shield_logo.png" alt="Spartan Shield" width="100"/>
-</div>
-
 ## **Overview**
 
 Welcome, fearless Spartan DevOps Engineer! This repository is your battlefield, where code meets infrastructure, and systems bow before your command.
