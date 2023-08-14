@@ -46,19 +46,3 @@ Arm yourself with the following tools:
 
 We stand on the shoulders of giants and draw inspiration from our Spartan ancestors. This repository is a testament to their valor.
 
-## **Contribute**
-
-Should you choose to contribute, make sure to adhere to the Spartan way: clean, efficient, and battle-tested code.
-
-<div align="center">
-  <img src="forge_logo.png" alt="Spartan Forge" width="100"/>
-</div>
-
-## **Forge Ahead**
-
-Now, brave Spartan DevOps, go forth and conquer the digital realm. The journey ahead will be arduous, but remember: your code is your legacy, your infrastructure is your fortress, and your resilience is unmatched.
-
-<div align="center">
-  <img src="spartan_helmet_logo.png" alt="Spartan Helmet" width="100"/>
-</div>
-
